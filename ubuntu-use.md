@@ -1,0 +1,1 @@
+[wine-qq安装](http://jingyan.baidu.com/article/47a29f24577776c01423991a.html) [下载](http://pan.baidu.com/share/link?shareid=2003023703&uk=1008622982&fid=656072501397307)

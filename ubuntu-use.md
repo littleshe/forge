@@ -20,6 +20,7 @@ root账号密码 [link](http://blog.csdn.net/david_xtd/article/details/7229325)
 
 ### git 
 `sudo apt-get install git`
+[git操作](http://www.th7.cn/system/lin/201407/64759.shtml)
 
 ### node
 [教程](http://www.cnblogs.com/dubaokun/p/3558848.html)

@@ -1,4 +1,4 @@
-# Ubuntu常用软件
+# 常用软件
 很多软件都可以在 `Ubuntu软件中心` 找到
 
 安装软件前，先在终端 `sudo apt-get update`
@@ -17,3 +17,8 @@
 
 ### git
 ```sudo apt-get install git```
+
+# 快捷键
+打开终端 `Ctrl + Alt + T` 
+
+修改hosts `sudo vi /etc/hosts`

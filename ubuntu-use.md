@@ -1,6 +1,6 @@
-root账号密码 [link](http://blog.csdn.net/david_xtd/article/details/7229325)
+# Ubuntu使用备忘
 
-# 常用软件
+## 常用软件
 很多软件都可以在 `Ubuntu软件中心` 找到
 
 安装软件前，先在终端 `sudo apt-get update`
@@ -28,12 +28,12 @@ root账号密码 [link](http://blog.csdn.net/david_xtd/article/details/7229325)
 ### sublime
 [教程](http://blog.csdn.net/cywosp/article/details/32721011)
 
-# 快捷键
+## 快捷键
 打开终端 `Ctrl + Alt + T` 
 
 修改hosts `sudo vi /etc/hosts`
 
-# 命令行
+## 命令行
 ### ls
 查看指定目录下的内容
 ### ls -l
@@ -56,3 +56,6 @@ root账号密码 [link](http://blog.csdn.net/david_xtd/article/details/7229325)
 复制文件
 ### cp -r
 复制文件夹
+
+## 其他
+[root账号密码](http://blog.csdn.net/david_xtd/article/details/7229325)

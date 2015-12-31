@@ -1,6 +1,7 @@
 安装软件前，先在终端 `sudo apt-get update`
 
 安装RTX
+
 [安装教程](http://www.linuxidc.com/Linux/2013-08/88732.htm)
 
 安装QQ

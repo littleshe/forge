@@ -1,3 +1,5 @@
+root账号密码 [link](http://blog.csdn.net/david_xtd/article/details/7229325)
+
 # 常用软件
 很多软件都可以在 `Ubuntu软件中心` 找到
 

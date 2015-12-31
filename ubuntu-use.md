@@ -24,6 +24,9 @@ root账号密码 [link](http://blog.csdn.net/david_xtd/article/details/7229325)
 ### node
 [教程](http://www.cnblogs.com/dubaokun/p/3558848.html)
 
+### sublime
+[教程](http://blog.csdn.net/cywosp/article/details/32721011)
+
 # 快捷键
 打开终端 `Ctrl + Alt + T` 
 

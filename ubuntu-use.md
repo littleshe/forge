@@ -19,6 +19,9 @@
 ### git 
 `sudo apt-get install git`
 
+### node
+[教程](http://www.cnblogs.com/dubaokun/p/3558848.html)
+
 # 快捷键
 打开终端 `Ctrl + Alt + T` 
 
@@ -47,4 +50,3 @@
 复制文件
 ### cp -r
 复制文件夹
-

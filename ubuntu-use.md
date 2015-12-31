@@ -1,3 +1,5 @@
+很多软件都可以在`ubuntu软件中心`找到
+
 安装软件前，先在终端 `sudo apt-get update`
 
 安装RTX
